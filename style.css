@@ -364,17 +364,6 @@
   width: 580px;
   height: 523px;
 }
-.desktop .rectangle-wrapper {
-  display: flex;
-  flex-direction: column;
-  width: 1440px;
-  height: 200px;
-  align-items: flex-start;
-  gap: 10px;
-  position: relative;
-  background-color: #ffffff;
-  opacity: 0;
-}
 .desktop .overlap-wrapper {
   position: relative;
   width: 1440px;
